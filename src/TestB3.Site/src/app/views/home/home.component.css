@@ -1,0 +1,170 @@
+.container h2{
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.container p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 24px;
+    font-weight: 500;
+}
+
+.simulator-container{
+    margin: 0 auto;
+    width: 60%;
+}
+
+.simulator{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 64px;
+}
+
+.simulator .simulator-controls{
+    width: 92%;
+}
+
+.simulator .simulator-results{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 80px;
+}
+
+.simulator .simulator-controls-item{
+    display: flex;
+    margin-bottom: 32px;
+    align-items: flex-end;
+}
+
+.simulator-values .value{
+    display: flex;
+    justify-content: space-between;
+    font-size: 48px;
+    line-height: 52px;
+    color: #111;
+    font-weight: 500;
+    width: 100%;
+}
+
+.simulator-values .value .form-control-text{
+    background: transparent;
+    border: none;
+    width: auto;
+    outline: none;
+    font-size: 48px;
+    line-height: 52px;
+    color: #111;
+    font-weight: 500;
+    width: 100%;
+}
+
+.simulator-buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.greg-button{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    border: none;
+    border-radius: 24px;
+    height: 48px;
+    font-size: 16px;
+    line-height: 1.5;
+    transition: .2s ease;
+    cursor: pointer;
+    margin: 0 10px;
+    border-color: #004685;
+    color: #004685 !important;
+    background: #004685;
+    width: 48px;
+    padding: 0;
+}
+
+.greg-button:hover{
+    background: #002C63;
+    color: #fff !important;
+}
+
+.simulator .simulator-controls-item.simulator-controls-item-vertical{
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.form-range {
+    -webkit-appearance: none;
+    margin: 20px 0;
+    width: 100%;
+}
+
+.form-range::-webkit-slider-thumb {
+    background:#004685;
+    border:4px solid #fff;
+    border-radius:40px;
+    cursor:pointer;
+    height:40px;
+    width:40px;
+    -webkit-appearance:none;
+    margin-top:-19px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+  }
+
+
+.simulator-results{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 80px;
+  }
+
+  .simulator-results .simulador-results-main{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: #111;
+    margin-bottom: 16px;
+  }
+
+.simulator-results .simulador-results-main .result-heading {
+    font-size: 24px;
+    line-height: 26px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.simulator-results .simulador-results-main .result-value {
+    font-size: 64px;
+    line-height: 70px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.simulator-results .simulador-results-main::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 99%;
+    height: 4px;
+    background: #004685;
+    border-radius: 2px;
+}
+
+.simulator-results  .simulator-result-row {
+    display: flex;
+    align-items: flex-end;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+}
+

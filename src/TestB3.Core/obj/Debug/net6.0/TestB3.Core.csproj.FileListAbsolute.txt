@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\bin\Debug\net6.0\TestB3.Core.deps.json
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\bin\Debug\net6.0\TestB3.Core.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\bin\Debug\net6.0\TestB3.Core.pdb
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.AssemblyInfo.cs
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\refint\TestB3.Core.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\TestB3.Core.pdb
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Core\obj\Debug\net6.0\ref\TestB3.Core.dll

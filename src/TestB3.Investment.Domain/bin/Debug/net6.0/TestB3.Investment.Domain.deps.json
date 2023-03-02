@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestB3.Investment.Domain/1.0.0": {
+        "dependencies": {
+          "TestB3.Core": "1.0.0"
+        },
+        "runtime": {
+          "TestB3.Investment.Domain.dll": {}
+        }
+      },
+      "TestB3.Core/1.0.0": {
+        "runtime": {
+          "TestB3.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestB3.Investment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestB3.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TestB3.Investment.WepApi.props" />
+</Project>

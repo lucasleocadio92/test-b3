@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\bin\Debug\net6.0\TestB3.Investment.Domain.deps.json
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\bin\Debug\net6.0\TestB3.Investment.Domain.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\bin\Debug\net6.0\TestB3.Investment.Domain.pdb
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\bin\Debug\net6.0\TestB3.Core.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\bin\Debug\net6.0\TestB3.Core.pdb
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.csproj.CopyComplete
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\refint\TestB3.Investment.Domain.dll
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\TestB3.Investment.Domain.pdb
+C:\Users\lucas\Desktop\TestB3\src\TestB3.Investment.Domain\obj\Debug\net6.0\ref\TestB3.Investment.Domain.dll
